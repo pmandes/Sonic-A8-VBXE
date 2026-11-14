@@ -1,0 +1,26 @@
+# Text files with normalized line endings; binary files marked explicitly
+* text=auto
+
+*.asm text
+*.inc text
+*.md text
+*.py text
+*.ps1 text
+*.cmd text eol=crlf
+*.json text
+
+*.xex binary
+*.exe binary
+*.zx2 binary
+*.obx binary
+*.png binary
+*.gif binary
+*.gz binary
+*.atr binary
+*.car binary
+# xBIOS (xbios.com, xboot.obx, xbios.cfg - configuration bytes): no line ending conversion
+tools/bin/xbios/** binary
+*.sapr binary
+*.lz16 binary
+*.fnt binary
+*.com binary

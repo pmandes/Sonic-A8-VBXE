@@ -1,0 +1,21 @@
+# Build output (tools\build.cmd) - contains data extracted from the ROM, never commit
+build/
+
+# Release files are published on GitHub Releases, not in the repository
+dist/*
+!dist/README.TXT
+
+# Your own ROM dump (never in the repository)
+assets/rom/sms/*
+!assets/rom/sms/README.txt
+*.sms
+
+# Python, OS and editor files
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

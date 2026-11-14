@@ -1,0 +1,114 @@
+[
+  {
+    "subtune": 1,
+    "title": "Green Hill Zone",
+    "hvsc_duration": "1:03.4",
+    "frames": 3170,
+    "stem": "01_Green_Hill_Zone"
+  },
+  {
+    "subtune": 2,
+    "title": "Bridge Zone",
+    "hvsc_duration": "0:30.8",
+    "frames": 1540,
+    "stem": "02_Bridge_Zone"
+  },
+  {
+    "subtune": 3,
+    "title": "Jungle Zone",
+    "hvsc_duration": "0:34.495",
+    "frames": 1725,
+    "stem": "03_Jungle_Zone"
+  },
+  {
+    "subtune": 4,
+    "title": "Special Stage Theme",
+    "hvsc_duration": "1:11.503",
+    "frames": 3576,
+    "stem": "04_Special_Stage_Theme"
+  },
+  {
+    "subtune": 5,
+    "title": "Labyrinth Zone",
+    "hvsc_duration": "0:34.495",
+    "frames": 1725,
+    "stem": "05_Labyrinth_Zone"
+  },
+  {
+    "subtune": 6,
+    "title": "Scrap Brain Zone",
+    "hvsc_duration": "1:01.3",
+    "frames": 3065,
+    "stem": "06_Scrap_Brain_Zone"
+  },
+  {
+    "subtune": 7,
+    "title": "Sky Base Zone",
+    "hvsc_duration": "0:19.153",
+    "frames": 958,
+    "stem": "07_Sky_Base_Zone"
+  },
+  {
+    "subtune": 8,
+    "title": "Title Screen",
+    "hvsc_duration": "0:11",
+    "frames": 550,
+    "stem": "08_Title_Screen"
+  },
+  {
+    "subtune": 9,
+    "title": "Invincibility Theme",
+    "hvsc_duration": "0:11.512",
+    "frames": 576,
+    "stem": "09_Invincibility_Theme"
+  },
+  {
+    "subtune": 10,
+    "title": "Chaos Emerald Jingle",
+    "hvsc_duration": "0:05",
+    "frames": 250,
+    "stem": "10_Chaos_Emerald_Jingle"
+  },
+  {
+    "subtune": 11,
+    "title": "Act Complete",
+    "hvsc_duration": "0:06.459",
+    "frames": 323,
+    "stem": "11_Act_Complete"
+  },
+  {
+    "subtune": 12,
+    "title": "Game Over",
+    "hvsc_duration": "0:04.875",
+    "frames": 244,
+    "stem": "12_Game_Over"
+  },
+  {
+    "subtune": 13,
+    "title": "Boss Theme",
+    "hvsc_duration": "0:14.385",
+    "frames": 720,
+    "stem": "13_Boss_Theme"
+  },
+  {
+    "subtune": 14,
+    "title": "End Credits",
+    "hvsc_duration": "1:51.2",
+    "frames": 5560,
+    "stem": "14_End_Credits"
+  },
+  {
+    "subtune": 15,
+    "title": "Untitled_15",
+    "hvsc_duration": "0:06.791",
+    "frames": 340,
+    "stem": "15_Untitled_15"
+  },
+  {
+    "subtune": 16,
+    "title": "Untitled_16",
+    "hvsc_duration": "0:03",
+    "frames": 150,
+    "stem": "16_Untitled_16"
+  }
+]
